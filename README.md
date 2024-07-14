@@ -1,5 +1,6 @@
 # Repository for the BIS project
 Below is a very short excerpt
+
 [..]
 ## Introduction
 This project (paper) aims to present an analysis of business processes using Process Mining techniques. This project aims to exploit process mining techniques to find some optimizations for the management of processes involving traffic tickets. The first chapters present the log and describe some cleaning and filtering operations to keep the data meaningful for the purpose of analysis. Then the log is analyzed through statistical methods to find areas for improvement, analyzed variants. Finally, business objectives to improve business efficiency are presented.
